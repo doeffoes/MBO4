@@ -1,0 +1,20 @@
+C:\Users\Danny\Documents\school\Project17\Swinkels\Swinkels\obj\Debug\Swinkels.csprojAssemblyReference.cache
+C:\Users\Danny\Documents\school\Project17\Swinkels\Swinkels\obj\Debug\Swinkels.Dashboard.resources
+C:\Users\Danny\Documents\school\Project17\Swinkels\Swinkels\obj\Debug\Swinkels.Properties.Resources.resources
+C:\Users\Danny\Documents\school\Project17\Swinkels\Swinkels\obj\Debug\Swinkels.csproj.GenerateResource.cache
+C:\Users\Danny\Documents\school\Project17\Swinkels\Swinkels\obj\Debug\Swinkels.csproj.CoreCompileInputs.cache
+C:\Users\Danny\Documents\school\Project17\Swinkels\Swinkels\bin\Debug\Swinkels.exe.config
+C:\Users\Danny\Documents\school\Project17\Swinkels\Swinkels\bin\Debug\Swinkels.exe
+C:\Users\Danny\Documents\school\Project17\Swinkels\Swinkels\bin\Debug\Swinkels.pdb
+C:\Users\Danny\Documents\school\Project17\Swinkels\Swinkels\obj\Debug\Swinkels.exe
+C:\Users\Danny\Documents\school\Project17\Swinkels\Swinkels\obj\Debug\Swinkels.pdb
+C:\Users\maxsi\OneDrive\Bureaublad\School\Project 17 - Swinkels\Swinkels\Swinkels\Swinkels\bin\Debug\Swinkels.exe.config
+C:\Users\maxsi\OneDrive\Bureaublad\School\Project 17 - Swinkels\Swinkels\Swinkels\Swinkels\bin\Debug\Swinkels.exe
+C:\Users\maxsi\OneDrive\Bureaublad\School\Project 17 - Swinkels\Swinkels\Swinkels\Swinkels\bin\Debug\Swinkels.pdb
+C:\Users\maxsi\OneDrive\Bureaublad\School\Project 17 - Swinkels\Swinkels\Swinkels\Swinkels\obj\Debug\Swinkels.csproj.AssemblyReference.cache
+C:\Users\maxsi\OneDrive\Bureaublad\School\Project 17 - Swinkels\Swinkels\Swinkels\Swinkels\obj\Debug\Swinkels.Dashboard.resources
+C:\Users\maxsi\OneDrive\Bureaublad\School\Project 17 - Swinkels\Swinkels\Swinkels\Swinkels\obj\Debug\Swinkels.Properties.Resources.resources
+C:\Users\maxsi\OneDrive\Bureaublad\School\Project 17 - Swinkels\Swinkels\Swinkels\Swinkels\obj\Debug\Swinkels.csproj.GenerateResource.cache
+C:\Users\maxsi\OneDrive\Bureaublad\School\Project 17 - Swinkels\Swinkels\Swinkels\Swinkels\obj\Debug\Swinkels.csproj.CoreCompileInputs.cache
+C:\Users\maxsi\OneDrive\Bureaublad\School\Project 17 - Swinkels\Swinkels\Swinkels\Swinkels\obj\Debug\Swinkels.exe
+C:\Users\maxsi\OneDrive\Bureaublad\School\Project 17 - Swinkels\Swinkels\Swinkels\Swinkels\obj\Debug\Swinkels.pdb

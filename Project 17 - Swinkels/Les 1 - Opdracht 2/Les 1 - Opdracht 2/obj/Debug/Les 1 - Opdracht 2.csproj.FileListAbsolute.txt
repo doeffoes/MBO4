@@ -1,0 +1,9 @@
+C:\Users\maxsi\OneDrive\Bureaublad\School\Project 17 - Swinkels\Les 1 - Opdracht 2\Les 1 - Opdracht 2\bin\Debug\Les 1 - Opdracht 2.exe.config
+C:\Users\maxsi\OneDrive\Bureaublad\School\Project 17 - Swinkels\Les 1 - Opdracht 2\Les 1 - Opdracht 2\bin\Debug\Les 1 - Opdracht 2.exe
+C:\Users\maxsi\OneDrive\Bureaublad\School\Project 17 - Swinkels\Les 1 - Opdracht 2\Les 1 - Opdracht 2\bin\Debug\Les 1 - Opdracht 2.pdb
+C:\Users\maxsi\OneDrive\Bureaublad\School\Project 17 - Swinkels\Les 1 - Opdracht 2\Les 1 - Opdracht 2\obj\Debug\Les 1 - Opdracht 2.csproj.AssemblyReference.cache
+C:\Users\maxsi\OneDrive\Bureaublad\School\Project 17 - Swinkels\Les 1 - Opdracht 2\Les 1 - Opdracht 2\obj\Debug\Les_1___Opdracht_2.Properties.Resources.resources
+C:\Users\maxsi\OneDrive\Bureaublad\School\Project 17 - Swinkels\Les 1 - Opdracht 2\Les 1 - Opdracht 2\obj\Debug\Les 1 - Opdracht 2.csproj.GenerateResource.cache
+C:\Users\maxsi\OneDrive\Bureaublad\School\Project 17 - Swinkels\Les 1 - Opdracht 2\Les 1 - Opdracht 2\obj\Debug\Les 1 - Opdracht 2.csproj.CoreCompileInputs.cache
+C:\Users\maxsi\OneDrive\Bureaublad\School\Project 17 - Swinkels\Les 1 - Opdracht 2\Les 1 - Opdracht 2\obj\Debug\Les 1 - Opdracht 2.exe
+C:\Users\maxsi\OneDrive\Bureaublad\School\Project 17 - Swinkels\Les 1 - Opdracht 2\Les 1 - Opdracht 2\obj\Debug\Les 1 - Opdracht 2.pdb
