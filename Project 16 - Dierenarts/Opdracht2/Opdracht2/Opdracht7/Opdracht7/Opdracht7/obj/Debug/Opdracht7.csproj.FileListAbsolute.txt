@@ -1,0 +1,11 @@
+C:\Users\maxsi\OneDrive\Bureaublad\School\Project 16 - DierenArts\Project 16- Dierenarts\Opdracht7\Opdracht7\Opdracht7\bin\Debug\Opdracht7.exe.config
+C:\Users\maxsi\OneDrive\Bureaublad\School\Project 16 - DierenArts\Project 16- Dierenarts\Opdracht7\Opdracht7\Opdracht7\bin\Debug\Opdracht7.exe
+C:\Users\maxsi\OneDrive\Bureaublad\School\Project 16 - DierenArts\Project 16- Dierenarts\Opdracht7\Opdracht7\Opdracht7\bin\Debug\Opdracht7.pdb
+C:\Users\maxsi\OneDrive\Bureaublad\School\Project 16 - DierenArts\Project 16- Dierenarts\Opdracht7\Opdracht7\Opdracht7\obj\Debug\Opdracht7.csproj.AssemblyReference.cache
+C:\Users\maxsi\OneDrive\Bureaublad\School\Project 16 - DierenArts\Project 16- Dierenarts\Opdracht7\Opdracht7\Opdracht7\obj\Debug\Opdracht7Meric.Form1.resources
+C:\Users\maxsi\OneDrive\Bureaublad\School\Project 16 - DierenArts\Project 16- Dierenarts\Opdracht7\Opdracht7\Opdracht7\obj\Debug\Opdracht7Meric.FrmKlantInvoer.resources
+C:\Users\maxsi\OneDrive\Bureaublad\School\Project 16 - DierenArts\Project 16- Dierenarts\Opdracht7\Opdracht7\Opdracht7\obj\Debug\Opdracht7.Properties.Resources.resources
+C:\Users\maxsi\OneDrive\Bureaublad\School\Project 16 - DierenArts\Project 16- Dierenarts\Opdracht7\Opdracht7\Opdracht7\obj\Debug\Opdracht7.csproj.GenerateResource.cache
+C:\Users\maxsi\OneDrive\Bureaublad\School\Project 16 - DierenArts\Project 16- Dierenarts\Opdracht7\Opdracht7\Opdracht7\obj\Debug\Opdracht7.csproj.CoreCompileInputs.cache
+C:\Users\maxsi\OneDrive\Bureaublad\School\Project 16 - DierenArts\Project 16- Dierenarts\Opdracht7\Opdracht7\Opdracht7\obj\Debug\Opdracht7.exe
+C:\Users\maxsi\OneDrive\Bureaublad\School\Project 16 - DierenArts\Project 16- Dierenarts\Opdracht7\Opdracht7\Opdracht7\obj\Debug\Opdracht7.pdb
