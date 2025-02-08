@@ -1,0 +1,10 @@
+C:\Users\meric\OneDrive\Bureaublad\Opdracht3\Opdracht3Meric\bin\Debug\Opdracht3Meric.exe.config
+C:\Users\meric\OneDrive\Bureaublad\Opdracht3\Opdracht3Meric\bin\Debug\Opdracht3Meric.exe
+C:\Users\meric\OneDrive\Bureaublad\Opdracht3\Opdracht3Meric\bin\Debug\Opdracht3Meric.pdb
+C:\Users\meric\OneDrive\Bureaublad\Opdracht3\Opdracht3Meric\obj\Debug\Opdracht3Meric.csprojAssemblyReference.cache
+C:\Users\meric\OneDrive\Bureaublad\Opdracht3\Opdracht3Meric\obj\Debug\Opdracht3Meric.Form1.resources
+C:\Users\meric\OneDrive\Bureaublad\Opdracht3\Opdracht3Meric\obj\Debug\Opdracht3Meric.Properties.Resources.resources
+C:\Users\meric\OneDrive\Bureaublad\Opdracht3\Opdracht3Meric\obj\Debug\Opdracht3Meric.csproj.GenerateResource.cache
+C:\Users\meric\OneDrive\Bureaublad\Opdracht3\Opdracht3Meric\obj\Debug\Opdracht3Meric.csproj.CoreCompileInputs.cache
+C:\Users\meric\OneDrive\Bureaublad\Opdracht3\Opdracht3Meric\obj\Debug\Opdracht3Meric.exe
+C:\Users\meric\OneDrive\Bureaublad\Opdracht3\Opdracht3Meric\obj\Debug\Opdracht3Meric.pdb
