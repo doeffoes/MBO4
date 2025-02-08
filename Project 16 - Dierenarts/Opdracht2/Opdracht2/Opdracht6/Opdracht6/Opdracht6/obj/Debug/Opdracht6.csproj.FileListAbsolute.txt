@@ -1,0 +1,10 @@
+C:\Users\maxsi\OneDrive\Bureaublad\School\Project 16 - DierenArts\Project 16- Dierenarts\Opdracht6\Opdracht6\Opdracht6\bin\Debug\Opdracht6.exe.config
+C:\Users\maxsi\OneDrive\Bureaublad\School\Project 16 - DierenArts\Project 16- Dierenarts\Opdracht6\Opdracht6\Opdracht6\bin\Debug\Opdracht6.exe
+C:\Users\maxsi\OneDrive\Bureaublad\School\Project 16 - DierenArts\Project 16- Dierenarts\Opdracht6\Opdracht6\Opdracht6\bin\Debug\Opdracht6.pdb
+C:\Users\maxsi\OneDrive\Bureaublad\School\Project 16 - DierenArts\Project 16- Dierenarts\Opdracht6\Opdracht6\Opdracht6\obj\Debug\Opdracht6.csproj.AssemblyReference.cache
+C:\Users\maxsi\OneDrive\Bureaublad\School\Project 16 - DierenArts\Project 16- Dierenarts\Opdracht6\Opdracht6\Opdracht6\obj\Debug\MericOpdracht6.Form1.resources
+C:\Users\maxsi\OneDrive\Bureaublad\School\Project 16 - DierenArts\Project 16- Dierenarts\Opdracht6\Opdracht6\Opdracht6\obj\Debug\Opdracht6.Properties.Resources.resources
+C:\Users\maxsi\OneDrive\Bureaublad\School\Project 16 - DierenArts\Project 16- Dierenarts\Opdracht6\Opdracht6\Opdracht6\obj\Debug\Opdracht6.csproj.GenerateResource.cache
+C:\Users\maxsi\OneDrive\Bureaublad\School\Project 16 - DierenArts\Project 16- Dierenarts\Opdracht6\Opdracht6\Opdracht6\obj\Debug\Opdracht6.csproj.CoreCompileInputs.cache
+C:\Users\maxsi\OneDrive\Bureaublad\School\Project 16 - DierenArts\Project 16- Dierenarts\Opdracht6\Opdracht6\Opdracht6\obj\Debug\Opdracht6.exe
+C:\Users\maxsi\OneDrive\Bureaublad\School\Project 16 - DierenArts\Project 16- Dierenarts\Opdracht6\Opdracht6\Opdracht6\obj\Debug\Opdracht6.pdb
