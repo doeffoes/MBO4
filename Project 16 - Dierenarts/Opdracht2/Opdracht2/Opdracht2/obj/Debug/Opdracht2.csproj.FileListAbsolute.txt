@@ -1,0 +1,5 @@
+C:\Users\maxsi\OneDrive\Bureaublad\School\Project 16 - DierenArts\Project 16- Dierenarts\Opdracht2\Opdracht2\Opdracht2\obj\Debug\Opdracht2.csproj.AssemblyReference.cache
+C:\Users\maxsi\OneDrive\Bureaublad\School\Project 16 - DierenArts\Project 16- Dierenarts\Opdracht2\Opdracht2\Opdracht2\obj\Debug\Opdracht2MericRecepten.Form1.resources
+C:\Users\maxsi\OneDrive\Bureaublad\School\Project 16 - DierenArts\Project 16- Dierenarts\Opdracht2\Opdracht2\Opdracht2\obj\Debug\Opdracht2.Properties.Resources.resources
+C:\Users\maxsi\OneDrive\Bureaublad\School\Project 16 - DierenArts\Project 16- Dierenarts\Opdracht2\Opdracht2\Opdracht2\obj\Debug\Opdracht2.csproj.GenerateResource.cache
+C:\Users\maxsi\OneDrive\Bureaublad\School\Project 16 - DierenArts\Project 16- Dierenarts\Opdracht2\Opdracht2\Opdracht2\obj\Debug\Opdracht2.csproj.CoreCompileInputs.cache

@@ -1,0 +1,10 @@
+C:\Users\meric\OneDrive\Bureaublad\Opdracht2\Opdracht2MericRecepten\bin\Debug\Opdracht2MericRecepten.exe.config
+C:\Users\meric\OneDrive\Bureaublad\Opdracht2\Opdracht2MericRecepten\bin\Debug\Opdracht2MericRecepten.exe
+C:\Users\meric\OneDrive\Bureaublad\Opdracht2\Opdracht2MericRecepten\bin\Debug\Opdracht2MericRecepten.pdb
+C:\Users\meric\OneDrive\Bureaublad\Opdracht2\Opdracht2MericRecepten\obj\Debug\Opdracht2MericRecepten.csprojAssemblyReference.cache
+C:\Users\meric\OneDrive\Bureaublad\Opdracht2\Opdracht2MericRecepten\obj\Debug\Opdracht2MericRecepten.Form1.resources
+C:\Users\meric\OneDrive\Bureaublad\Opdracht2\Opdracht2MericRecepten\obj\Debug\Opdracht2MericRecepten.Properties.Resources.resources
+C:\Users\meric\OneDrive\Bureaublad\Opdracht2\Opdracht2MericRecepten\obj\Debug\Opdracht2MericRecepten.csproj.GenerateResource.cache
+C:\Users\meric\OneDrive\Bureaublad\Opdracht2\Opdracht2MericRecepten\obj\Debug\Opdracht2MericRecepten.csproj.CoreCompileInputs.cache
+C:\Users\meric\OneDrive\Bureaublad\Opdracht2\Opdracht2MericRecepten\obj\Debug\Opdracht2MericRecepten.exe
+C:\Users\meric\OneDrive\Bureaublad\Opdracht2\Opdracht2MericRecepten\obj\Debug\Opdracht2MericRecepten.pdb
